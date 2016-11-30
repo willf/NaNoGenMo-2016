@@ -2,6 +2,8 @@
 
 National Novel Generation Month 2016
 
+Here is the result: [*twenty-six*: simply ciphered classic shorts](https://github.com/willf/NaNoGenMo-2016/blob/master/results/twenty-six.pdf) 
+
 I have always been fascinated with ciphers. As a software professional, I supposed I am meant to be good at them. But I am not, particularly. But I enjoy thinking about them; I retain a child-like wonder about them.
 
 This, my entry in the National Novel Generation Month challenge by Darius Kazemi, uses a simple substitution cipher to encrypt twenty-six famous short stories, some of which are still under copyright. I suppose this is some kind of commentary on copyright--to publish them using a simple encryption scheme. But mostly I was interested to see how easy it might be to “read” a familiar story in an encrypted form.
